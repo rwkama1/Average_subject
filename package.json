@@ -1,0 +1,16 @@
+{
+  "name": "average-subject",
+  "version": "1.0.0",
+  "description": "Calculate average of subject",
+  "scripts": {
+    "start": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwkama1/Average_subject"
+  },
+ 
+  "keywords": ["js","javascript","calculation","grade","average","subject","calculate"],
+  "author": "Carlos Rodriguez <rwkamandriw@gmail.com>",
+  "license": "MIT"
+}
